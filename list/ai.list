@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,withpersona.com
 
 
 DOMAIN-SUFFIX,hcaptcha.com
