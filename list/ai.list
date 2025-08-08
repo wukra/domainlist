@@ -51,3 +51,7 @@ DOMAIN-SUFFIX,claude.ai
 
 # openrouter
 DOMAIN-SUFFIX,openrouter.io
+
+# augmentcode.com
+DOMAIN-SUFFIX,augmentcode.com
+DOMAIN-SUFFIX,githubcopilot.com
