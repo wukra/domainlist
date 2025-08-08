@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 
+
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
 # Add stripe.com
@@ -47,3 +48,6 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+
+# openrouter
+DOMAIN-SUFFIX,openrouter.io
