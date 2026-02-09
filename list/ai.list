@@ -64,3 +64,255 @@ DOMAIN-SUFFIX,gitlab.cn
 DOMAIN-SUFFIX,gitlabusercontent.com
 DOMAIN-SUFFIX,gitlab-static.net
 DOMAIN-SUFFIX,gitlab.cc
+
+# > LLM / Chatbot
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+# Mistral
+DOMAIN-SUFFIX,mistral.ai
+# Cohere
+DOMAIN-SUFFIX,cohere.com
+# xAI / Grok
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+# Inflection / Pi
+DOMAIN-SUFFIX,inflection.ai
+DOMAIN-SUFFIX,pi.ai
+# Character AI
+DOMAIN-SUFFIX,character.ai
+# AI21 Labs
+DOMAIN-SUFFIX,ai21.com
+# Reka AI
+DOMAIN-SUFFIX,reka.ai
+# Aleph Alpha
+DOMAIN-SUFFIX,aleph-alpha.com
+# You.com
+DOMAIN-SUFFIX,you.com
+# Google AI Studio / DeepMind
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+# Meta AI
+DOMAIN-SUFFIX,meta.ai
+# Claude
+DOMAIN-SUFFIX,claude.com
+
+# > Image / Video / Audio Generation
+# Midjourney
+DOMAIN-SUFFIX,midjourney.com
+# Stability AI
+DOMAIN-SUFFIX,stability.ai
+DOMAIN-SUFFIX,stabilityai.com
+# Runway
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN-SUFFIX,runway.com
+# ElevenLabs
+DOMAIN-SUFFIX,elevenlabs.io
+# Synthesia
+DOMAIN-SUFFIX,synthesia.io
+# Leonardo AI
+DOMAIN-SUFFIX,leonardo.ai
+# Pika
+DOMAIN-SUFFIX,pika.art
+# Suno
+DOMAIN-SUFFIX,suno.ai
+DOMAIN-SUFFIX,suno.com
+# Udio
+DOMAIN-SUFFIX,udio.com
+# Ideogram
+DOMAIN-SUFFIX,ideogram.ai
+# Luma AI
+DOMAIN-SUFFIX,lumalabs.ai
+# Black Forest Labs (FLUX)
+DOMAIN-SUFFIX,bfl.ai
+DOMAIN-SUFFIX,bfl.ml
+# HeyGen
+DOMAIN-SUFFIX,heygen.com
+# D-ID
+DOMAIN-SUFFIX,d-id.com
+# Descript
+DOMAIN-SUFFIX,descript.com
+# Murf AI
+DOMAIN-SUFFIX,murf.ai
+# PlayHT
+DOMAIN-SUFFIX,play.ht
+# Topaz Labs
+DOMAIN-SUFFIX,topazlabs.com
+# Magnific AI
+DOMAIN-SUFFIX,magnific.ai
+# Photoroom
+DOMAIN-SUFFIX,photoroom.com
+# Clipdrop
+DOMAIN-SUFFIX,clipdrop.co
+# Riffusion
+DOMAIN-SUFFIX,riffusion.com
+
+# > AI Coding Tools
+# Cursor
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,anysphere.inc
+# Windsurf / Codeium
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,windsurf.com
+# Replit
+DOMAIN-SUFFIX,replit.com
+DOMAIN-SUFFIX,repl.co
+DOMAIN-SUFFIX,repl.it
+# Sourcegraph / Cody
+DOMAIN-SUFFIX,sourcegraph.com
+# Tabnine
+DOMAIN-SUFFIX,tabnine.com
+# Phind
+DOMAIN-SUFFIX,phind.com
+# Cognition / Devin
+DOMAIN-SUFFIX,cognition.ai
+DOMAIN-SUFFIX,devin.ai
+# v0 (Vercel)
+DOMAIN-SUFFIX,v0.dev
+# bolt.new (StackBlitz)
+DOMAIN-SUFFIX,bolt.new
+DOMAIN-SUFFIX,stackblitz.com
+# Lovable
+DOMAIN-SUFFIX,lovable.dev
+# Cline
+DOMAIN-SUFFIX,cline.ai
+# Aider
+DOMAIN-SUFFIX,aider.chat
+
+# > AI Infrastructure / ML Platform
+# Hugging Face
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+# Replicate
+DOMAIN-SUFFIX,replicate.com
+# Together AI
+DOMAIN-SUFFIX,together.ai
+DOMAIN-SUFFIX,together.xyz
+# Groq
+DOMAIN-SUFFIX,groq.com
+# Fireworks AI
+DOMAIN-SUFFIX,fireworks.ai
+# Scale AI
+DOMAIN-SUFFIX,scale.com
+DOMAIN-SUFFIX,scale.ai
+# Weights & Biases
+DOMAIN-SUFFIX,wandb.ai
+DOMAIN-SUFFIX,wandb.com
+# Modal
+DOMAIN-SUFFIX,modal.com
+# Anyscale
+DOMAIN-SUFFIX,anyscale.com
+# Cerebras
+DOMAIN-SUFFIX,cerebras.ai
+DOMAIN-SUFFIX,cerebras.net
+# Lambda
+DOMAIN-SUFFIX,lambda.ai
+DOMAIN-SUFFIX,lambdalabs.com
+# CoreWeave
+DOMAIN-SUFFIX,coreweave.com
+# RunPod
+DOMAIN-SUFFIX,runpod.io
+# Vast.ai
+DOMAIN-SUFFIX,vast.ai
+# Baseten
+DOMAIN-SUFFIX,baseten.co
+# Databricks
+DOMAIN-SUFFIX,databricks.com
+# Neptune
+DOMAIN-SUFFIX,neptune.ai
+# Abacus.AI
+DOMAIN-SUFFIX,abacus.ai
+# Nomic
+DOMAIN-SUFFIX,nomic.ai
+# Comet
+DOMAIN-SUFFIX,comet.com
+# MLflow
+DOMAIN-SUFFIX,mlflow.org
+
+# > AI Framework / Vector DB
+# LangChain
+DOMAIN-SUFFIX,langchain.com
+# LlamaIndex
+DOMAIN-SUFFIX,llamaindex.ai
+# Pinecone
+DOMAIN-SUFFIX,pinecone.io
+# Weaviate
+DOMAIN-SUFFIX,weaviate.io
+# Chroma
+DOMAIN-SUFFIX,trychroma.com
+# Qdrant
+DOMAIN-SUFFIX,qdrant.tech
+DOMAIN-SUFFIX,qdrant.io
+# Zilliz / Milvus
+DOMAIN-SUFFIX,zilliz.com
+DOMAIN-SUFFIX,milvus.io
+# Langfuse
+DOMAIN-SUFFIX,langfuse.com
+# Helicone
+DOMAIN-SUFFIX,helicone.ai
+# deepset / Haystack
+DOMAIN-SUFFIX,deepset.ai
+# Unstructured
+DOMAIN-SUFFIX,unstructured.io
+# Dify
+DOMAIN-SUFFIX,dify.ai
+# CrewAI
+DOMAIN-SUFFIX,crewai.com
+# n8n
+DOMAIN-SUFFIX,n8n.io
+
+# > AI Research Lab
+# Allen AI (AI2)
+DOMAIN-SUFFIX,allenai.org
+# EleutherAI
+DOMAIN-SUFFIX,eleuther.ai
+# Adept AI
+DOMAIN-SUFFIX,adept.ai
+# Sakana AI
+DOMAIN-SUFFIX,sakana.ai
+
+# > Local AI Tool
+# Ollama
+DOMAIN-SUFFIX,ollama.com
+# LM Studio
+DOMAIN-SUFFIX,lmstudio.ai
+# Jan
+DOMAIN-SUFFIX,jan.ai
+# GPT4All
+DOMAIN-SUFFIX,gpt4all.io
+# LocalAI
+DOMAIN-SUFFIX,localai.io
+# Open WebUI
+DOMAIN-SUFFIX,openwebui.com
+
+# > Other AI Service
+# Jasper
+DOMAIN-SUFFIX,jasper.ai
+# Writer
+DOMAIN-SUFFIX,writer.com
+# Copy.ai
+DOMAIN-SUFFIX,copy.ai
+# Notion AI
+DOMAIN-SUFFIX,notion.so
+# Wolfram
+DOMAIN-SUFFIX,wolframalpha.com
+DOMAIN-SUFFIX,wolfram.com
+# Grammarly
+DOMAIN-SUFFIX,grammarly.com
+# QuillBot
+DOMAIN-SUFFIX,quillbot.com
+# Gamma
+DOMAIN-SUFFIX,gamma.app
+# Otter.ai
+DOMAIN-SUFFIX,otter.ai
+# AssemblyAI
+DOMAIN-SUFFIX,assemblyai.com
+# Deepgram
+DOMAIN-SUFFIX,deepgram.com
+# Kagi
+DOMAIN-SUFFIX,kagi.com
+# Harvey AI
+DOMAIN-SUFFIX,harvey.ai
+# Glean
+DOMAIN-SUFFIX,glean.com
+# OpenAI Sora
+DOMAIN-SUFFIX,sora.com
