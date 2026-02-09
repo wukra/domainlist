@@ -55,3 +55,12 @@ DOMAIN-SUFFIX,openrouter.io
 # augmentcode.com
 DOMAIN-SUFFIX,augmentcode.com
 DOMAIN-SUFFIX,githubcopilot.com
+
+# GitLab
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,gitlab.net
+DOMAIN-SUFFIX,gitlab.cn
+DOMAIN-SUFFIX,gitlabusercontent.com
+DOMAIN-SUFFIX,gitlab-static.net
+DOMAIN-SUFFIX,gitlab.cc
