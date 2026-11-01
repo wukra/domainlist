@@ -316,3 +316,6 @@ DOMAIN-SUFFIX,harvey.ai
 DOMAIN-SUFFIX,glean.com
 # OpenAI Sora
 DOMAIN-SUFFIX,sora.com
+
+# TypeSafe / Jev
+DOMAIN-SUFFIX,typesafe.ai
