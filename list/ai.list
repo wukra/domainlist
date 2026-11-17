@@ -148,6 +148,10 @@ DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,riffusion.com
 
 # > AI Coding Tools
+# Google Antigravity
+DOMAIN,daily-cloudcode-pa.googleapis.com
+DOMAIN,aicode.googleapis.com
+DOMAIN,antigravity-cli-auto-updater-974169037036.us-central1.run.app
 # Cursor
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,anysphere.inc
